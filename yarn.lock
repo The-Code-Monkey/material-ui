@@ -10615,9 +10615,9 @@ material-table@^1.50.0:
     react-double-scrollbar "0.0.15"
 
 material-ui-popup-state@^1.4.1:
-  version "1.5.4"
-  resolved "https://registry.yarnpkg.com/material-ui-popup-state/-/material-ui-popup-state-1.5.4.tgz#56cf7f7f8016a07057cfc45f8e58893258cbfed2"
-  integrity sha512-aHPrOZeOy4o5PDQ8WlFvxlxSB5m6G+Co/1uD4Eh7Uml6wxJUbRr9ZPHzdvaQ2TMFyYAExGFrPquVuNE8X9ZkXw==
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/material-ui-popup-state/-/material-ui-popup-state-1.7.0.tgz#914ed2b3cc7eec035bc1a4268c11c64022e57973"
+  integrity sha512-C826tPGUlr4nQUjYF1hYyrrshRxCSMY+Lbuzn4ch+QdUtevvgoMKXca8dA9UZ/kH2x64T8V+rqAm1dna/x4iHQ==
   dependencies:
     "@babel/runtime" "^7.1.5"
     "@material-ui/types" "^4.1.1"
