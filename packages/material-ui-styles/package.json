@@ -53,7 +53,7 @@
     "@material-ui/types": "^5.0.1",
     "@material-ui/utils": "^4.9.6",
     "clsx": "^1.0.4",
-    "csstype": "^2.5.2",
+    "csstype": "^3.0.6",
     "hoist-non-react-statics": "^3.3.2",
     "jss": "^10.0.3",
     "jss-plugin-camel-case": "^10.0.3",
