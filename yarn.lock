@@ -2554,9 +2554,9 @@
     "@types/react" "*"
 
 "@types/react-text-mask@^5.4.6":
-  version "5.4.6"
-  resolved "https://registry.yarnpkg.com/@types/react-text-mask/-/react-text-mask-5.4.6.tgz#3a81e9de472beb939038e78cb16d737ae94ba14a"
-  integrity sha512-0KkER9oXZY/v1x8aoMTHwANlWnKT5tnmV7Zz+g81gBvcHRtcIHotcpY4KgWRwx0T5JMcsYmEh7wGOz0lwdONew==
+  version "5.4.8"
+  resolved "https://registry.yarnpkg.com/@types/react-text-mask/-/react-text-mask-5.4.8.tgz#1e2013d8eb9f3ff64951568e5163270a83d31b92"
+  integrity sha512-KC2+fMkiwXUpijEdNrKcD1otO7VRqp4HFfq+vR756AG3d0z2lbIjO0/aFooqfd39t333Jkk4fvwWDpkvGBIoQg==
   dependencies:
     "@types/react" "*"
 
